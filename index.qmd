@@ -1,0 +1,9 @@
+---
+title: "My Portfolio"
+---
+
+Welcome to my data analytics portfolio.
+
+## Projects
+
+* [**Credit Simple Lab**](projects/Mod5Lab1CreditSimple.html)

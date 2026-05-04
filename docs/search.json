@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Welcome to my data analytics portfolio."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "My Portfolio",
+    "section": "Projects",
+    "text": "Projects\n\nCredit Simple Lab"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
